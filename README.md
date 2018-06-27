@@ -20,4 +20,5 @@ Battery | 4100 mAh
 Display | 5.5" 1920 x 1080 px DPI 480 Rear 
 Camera | 13MP  
 Front Camera | 5MP
-
+### Thanks to:
+    * sxrhd
