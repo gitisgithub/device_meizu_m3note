@@ -4,8 +4,7 @@
 Unofficial LineageOS 14.1 and Android Nougat 7.0 based AOSP 
 ROMs. ---
 # About Device
-![M3 Note - Only for M Model ](https://media.takealot.com/covers_tsins/46815686/6937520011497-1-zoom.jpg 
-"Meizu M3 Note")
+M3 Note - Only for M Model
 
 ### Specifications
 Component Type | Details 
