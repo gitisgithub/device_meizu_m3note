@@ -1,8 +1,8 @@
 # device_meizu_m3note
+
 # Meizu M3 Note - Unofficial LineageOS 14.1 /AOSP 
-============== This device tree is for building of the 
-Unofficial LineageOS 14.1 and Android Nougat 7.0 based AOSP 
-ROMs. ---
+This device tree is for building of the Unofficial LineageOS 14.1 and Android Nougat 7.0 based AOSP ROMs. 
+
 # About Device
 M3 Note - Only for M Model
 
