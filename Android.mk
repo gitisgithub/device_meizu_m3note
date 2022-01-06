@@ -1,7 +1,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),m3note)
+ifeq ($(TARGET_DEVICE),twrp_m3note)
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
